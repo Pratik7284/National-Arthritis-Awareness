@@ -187,7 +187,7 @@ function EditorialPreview() {
             </p>
             <ul className="space-y-4">
               {[
-                "Curated editorial page featuring 6 orthopedic experts",
+                "Curated editorial page featuring 3–6 Orthopedic Experts per page",
                 "Individual doctor profile with photo and article",
                 "Designed for strong reader visibility and engagement"
               ].map((item, i) => (
